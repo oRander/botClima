@@ -17,7 +17,7 @@
     </ul>
 <h2>Como usar</h2>
     <ol>
-        <li>Crie um bot no <a href="https://discord.com/developers" target="_new">Discord Developer Portal</a>.</li>
+        <li>Crie um bot no <a href="https://discord.com/developers" target="_blank" rel="noopener noreferrer">Discord Developer Portal</a>.</li>
         <li>Copie o token de acesso do bot gerado na página de configurações do bot.</li>
         <li>Abra o arquivo <code>main.py</code> e substitua <code>"SEU_TOKEN_AQUI"</code> pelo token de acesso do seu bot.</li>
         <li>Inicie o bot executando o arquivo <code>main.py</code>.</li>
