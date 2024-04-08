@@ -15,8 +15,11 @@
     <ul>
         <li><strong>!clima</strong>: Use este comando para obter informações meteorológicas atuais para uma cidade específica.</li>
     </ul>
- <h2>Como usar</h2>
+<h2>Como usar</h2>
     <ol>
+        <li>Crie um bot no <a href="https://discord.com/developers" target="_blank">Discord Developer Portal</a>.</li>
+        <li>Copie o token de acesso do bot gerado na página de configurações do bot.</li>
+        <li>Abra o arquivo <code>main.py</code> e substitua <code>"SEU_TOKEN_AQUI"</code> pelo token de acesso do seu bot.</li>
         <li>Inicie o bot executando o arquivo <code>main.py</code>.</li>
         <li>O bot ficará online e pronto para aceitar comandos.</li>
         <li>Use os comandos descritos acima para interagir com o bot e obter informações meteorológicas.</li>
