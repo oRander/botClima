@@ -48,7 +48,6 @@ async def get_weather(message):
         weather_client = Client()
         weather = await obter_informacoes_meteorologicas(location, weather_client)
 
-        # Converter o horário para o fuso horário do Brasil (Horário de Brasília)
         br_timezone = pytz.timezone('America/Sao_Paulo')
         local_time_br = datetime.now(br_timezone).strftime('%d/%m/%Y %H:%M:%S')
 
@@ -67,5 +66,4 @@ async def obter_informacoes_meteorologicas(location, weather_client):
         return weather
 
 
-# Roda o bot com o token fornecido
-bot.run("MTIyNjIyODgwMjU2OTUwMjg5MA.GmhUK0.TKMmyz8RoKRiwRKv_NgGvRGYLoiDKxpFoxkLRc")
+bot.run("SEU_TOKEN_AQUI")
