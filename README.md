@@ -15,6 +15,13 @@
     <ul>
         <li><strong>!clima</strong>: Use este comando para obter informações meteorológicas atuais para uma cidade específica.</li>
     </ul>
+<h2>Como testar</h2>
+<ol>
+    <li>Adicione o bot <strong>RandBot#9151</strong> ao seu servidor do Discord.</li>
+    <li>Use o comando <code>!iniciar</code> para iniciar o bot e receber uma mensagem de boas-vindas.</li>
+    <li>Use o comando <code>!clima</code> para obter informações meteorológicas para uma cidade específica.</li>
+    <li>Digite a cidade e o estado (formato: cidade, UF) conforme solicitado.</li>
+</ol>
 <h2>Como usar</h2>
     <ol>
         <li>Crie um bot no <a href="https://discord.com/developers" target="_blank" rel="noopener noreferrer">Discord Developer Portal</a>.</li>
