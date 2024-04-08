@@ -14,8 +14,6 @@
      <h2>Funcionalidades</h2>
     <ul>
         <li><strong>!clima</strong>: Use este comando para obter informações meteorológicas atuais para uma cidade específica.</li>
-        <li><strong>!previsão</strong>: Use este comando para obter a previsão do tempo para as próximas 24 horas de uma cidade específica.</li>
-        <li><strong>!enviar_imagem</strong>: Este comando envia uma imagem específica.</li>
     </ul>
  <h2>Como usar</h2>
     <ol>
