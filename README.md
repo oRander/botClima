@@ -11,10 +11,6 @@
    <h2>Instalação</h2>
     <p>Para executar o bot, primeiro você precisa instalar todas as dependências. Você pode fazer isso executando o seguinte comando:</p>
     <pre><code>pip install discord.py python-weather pytz</code></pre>
-     <h2>Funcionalidades</h2>
-    <ul>
-        <li><strong>!clima</strong>: Use este comando para obter informações meteorológicas atuais para uma cidade específica.</li>
-    </ul>
 <h2>Como testar</h2>
 <ol>
     <li>Adicione o bot <strong>RandBot#9151</strong> ao seu servidor do Discord.</li>
